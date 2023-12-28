@@ -3,7 +3,7 @@
 
 <h1 align="center">
   
-Bootstrap 5: desenvolvimento de websites responsivos e atraentes
+Bootstrap 5: construindo layouts
 
 ###
   
